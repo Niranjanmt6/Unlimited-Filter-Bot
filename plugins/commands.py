@@ -247,8 +247,8 @@ async def help(client, message):
                     InlineKeyboardButton("About Me", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("Updates Channel", url="https://t.me/NEWMOVIESALWAYSHD"),
-                    InlineKeyboardButton("Support Group", url="https://t.me/newmoviesgrouup")
+                    InlineKeyboardButton("⚜️Channel⚜️", url="https://t.me/NEWMOVIESALWAYSHD"),
+                    InlineKeyboardButton("🔰Group🔰", url="https://t.me/newmoviesgrouup")
                 ]
             ]
         ),
@@ -265,7 +265,7 @@ async def about(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "Updates Channel", url="https://t.me/NEWMOVIESALWAYSHD")
+                        "⚜️Channel⚜️", url="https://t.me/NEWMOVIESALWAYSHD")
                 ],
                 [
                     InlineKeyboardButton("BACK", callback_data="help_data"),
