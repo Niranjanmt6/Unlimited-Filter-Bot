@@ -17,7 +17,7 @@ See <i>/help</i> for commands and more details.</b>
 
     ABOUT_MSG = """⭕️<b>My Name : Filter Bot</b>
 
-⭕️<b>Creater :</b> @Tom_Holl_and    
+⭕️<b>Creater :</b> @TOM_HOLLA_ND   
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
